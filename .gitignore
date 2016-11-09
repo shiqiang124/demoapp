@@ -23,6 +23,7 @@ doc/**/*.pdf
 
 # for java
 *.class
+.project
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
